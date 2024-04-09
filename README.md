@@ -1,0 +1,2 @@
+# AnalyticsTraining
+Обучение анализу данных
